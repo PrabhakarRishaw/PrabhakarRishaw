@@ -65,3 +65,6 @@ Become a Software Engineer and continuously improve my problem-solving skills.
 
 
 [![Codolio Profile](https://img.shields.io/badge/Codolio-View_Profile-blue?style=for-the-badge)](https://codolio.com/profile/Rishaw@076)
+
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prabhakarrishaw9732)
