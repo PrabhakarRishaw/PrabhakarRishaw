@@ -58,5 +58,9 @@ Become a Software Engineer and continuously improve my problem-solving skills.
 ## 📈 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rishaw076?theme=dark&font=Karma)
+## 📊 Competitive Programming Stats
+
+
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prabhakarrishaw9732)
+
 ![Codolio Stats](https://stats.codolio.com/Rishaw@076)
