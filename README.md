@@ -54,3 +54,7 @@ Become a Software Engineer and continuously improve my problem-solving skills.
 ![Stats](https://github-readme-stats.vercel.app/api?username=PrabhakarRishaw&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarRishaw&layout=compact)
+
+## 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rishaw076?theme=dark&font=Karma)
