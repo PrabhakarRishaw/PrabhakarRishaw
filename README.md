@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Rishaw Prabhakar
 
-<!--
-**PrabhakarRishaw/PrabhakarRishaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate about Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Solving LeetCode problems and building projects
+
+📚 Currently learning:
+- DSA
+- Python
+- Django
+- Data Analytics
+
+🎯 Goal:
+Become a Software Engineer and continuously improve my problem-solving skills.
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## 🛠 Languages and Tools
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
