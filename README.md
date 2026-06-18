@@ -19,8 +19,8 @@ Become a Software Engineer and continuously improve my problem-solving skills.
 
 ## 🌐 Connect with Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn:www.linkedin.com/in/rishaw-prabhakar-kk076
+- GitHub: https://github.com/PrabhakarRishaw
 
 ---
 
@@ -38,6 +38,6 @@ Become a Software Engineer and continuously improve my problem-solving skills.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=PrabhakarRishaw&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarRishaw&layout=compact)
