@@ -19,8 +19,10 @@ Become a Software Engineer and continuously improve my problem-solving skills.
 
 ## 🌐 Connect with Me
 
-- LinkedIn:www.linkedin.com/in/rishaw-prabhakar-kk076
+- LinkedIn: www.linkedin.com/in/rishaw-prabhakar-kk076
 - GitHub: https://github.com/PrabhakarRishaw
+- Leetcode: https://leetcode.com/u/Rishaw076
+  
 
 ---
 ## 🏆 Coding Platforms
