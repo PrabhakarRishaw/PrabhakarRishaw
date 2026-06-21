@@ -8,6 +8,8 @@
 
 📚 Currently learning:
 - DSA
+- C++
+- Machine Learning
 - Python
 - Django
 - Data Analytics
