@@ -1,36 +1,55 @@
-                                        # Hi 👋, I'm Rishaw Prabhakar
+<h1 align="center">Hi 👋, I'm Rishaw Prabhakar</h1>
 
-![](https://komarev.com/ghpvc/?username=PrabhakarRishaw&color=blue)
-🎓 Computer Science Student
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;DSA+Enthusiast;Python+Developer;Django+Learner;Future+Software+Engineer&center=true&width=600&height=50">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrabhakarRishaw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/PrabhakarRishaw?label=Followers&style=social" alt="followers" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 4th Year Computer Science Student
 
 💻 Passionate about Data Structures & Algorithms
 
 🚀 Solving LeetCode problems and building projects
 
-📚 Currently learning:
-- DSA
-- C++
-- Machine Learning
-- Python
-- Django
-- Data Analytics
+🌱 Currently learning Django, Machine Learning and Data Analytics
 
-🎯 Goal:
-Become a Software Engineer and continuously improve my problem-solving skills.
+🎯 Goal: Become a Software Engineer and continuously improve problem-solving skills
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/rishaw-prabhakar-kk076
-- GitHub: https://github.com/PrabhakarRishaw
-- Leetcode: https://leetcode.com/u/Rishaw076
-  
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rishaw-prabhakar-kk076">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PrabhakarRishaw">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Rishaw076">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
 
 ---
-## 🏆 Coding Platforms
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rishaw076/)
+## 🏆 Competitive Programming Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rishaw076)
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/prabhakarrzwuf)
 
@@ -44,32 +63,87 @@ Become a Software Engineer and continuously improve my problem-solving skills.
 
 ## 🛠 Languages and Tools
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+<p>
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+<img src="https://skillicons.dev/icons?i=cpp,python,django,git,github,vscode,mysql" />
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+</p>
 
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- C++
+- Python
+- Django
+- Machine Learning
+- Data Analytics
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PrabhakarRishaw&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarRishaw&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrabhakarRishaw&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarRishaw&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PrabhakarRishaw&theme=tokyonight"/>
+</p>
+
+---
 
 ## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rishaw076?theme=dark&font=Karma)
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Rishaw076?theme=dark&font=Karma"/>
+</p>
 
+---
 
-## 📊 Competitive Programming Stats
+## 📊 Codeforces Stats
 
+<p align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=prabhakarrishaw9732"/>
+</p>
 
+---
 
-[![Codolio Profile](https://img.shields.io/badge/Codolio-View_Profile-blue?style=for-the-badge)](https://codolio.com/profile/Rishaw@076)
+## 🏅 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PrabhakarRishaw&theme=onedark&row=1&column=6"/>
+</p>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prabhakarrishaw9732)
+---
+
+## 🚀 Featured Projects
+
+### Portfolio Website
+- Personal portfolio built using React and Vite
+- Showcases skills, projects and achievements
+
+### Django Projects
+- Learning full-stack development with Django
+- Building CRUD and database-driven applications
+
+### DSA Journey
+- Regularly solving problems on LeetCode, Codeforces and GeeksforGeeks
+- Focusing on improving problem-solving and competitive programming skills
+
+---
+
+### 💡 Quote
+
+> "Consistency beats talent when talent doesn't work hard."
+
+⭐ If you like my work, consider following me on GitHub!
