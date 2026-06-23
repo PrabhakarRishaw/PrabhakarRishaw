@@ -1,5 +1,6 @@
-# Hi 👋, I'm Rishaw Prabhakar
+                                        # Hi 👋, I'm Rishaw Prabhakar
 
+![](https://komarev.com/ghpvc/?username=PrabhakarRishaw&color=blue)
 🎓 Computer Science Student
 
 💻 Passionate about Data Structures & Algorithms
