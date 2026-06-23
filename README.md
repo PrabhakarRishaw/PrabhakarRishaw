@@ -11,7 +11,7 @@
 - C++
 - Machine Learning
 - AI
-- OOPS
+
 - Python
 - Django
 - Data Analytics
