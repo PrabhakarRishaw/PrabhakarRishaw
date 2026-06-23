@@ -117,13 +117,13 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-## 🏅 GitHub Trophies
+![Snake animation](https://github.com/PrabhakarRishaw/PrabhakarRishaw/blob/output/github-contribution-grid-snake.svg)
+---
+## 📊 Profile Summary
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrabhakarRishaw&theme=onedark&row=1&column=6"/>
-</p>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhakarRishaw&theme=github_dark)
 ---
 
 ## 🚀 Featured Projects
