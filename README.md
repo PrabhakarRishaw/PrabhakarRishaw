@@ -10,8 +10,6 @@
 - DSA
 - C++
 - Machine Learning
-- AI
-
 - Python
 - Django
 - Data Analytics
