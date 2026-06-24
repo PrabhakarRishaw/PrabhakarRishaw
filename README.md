@@ -146,4 +146,4 @@
 
 > "Consistency beats talent when talent doesn't work hard."
 
-⭐ If you like my work, consider following me on GitHub!
+
