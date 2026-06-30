@@ -79,7 +79,7 @@
 - Django
 - Machine Learning
 - Data Analytics
-- oops
+
 
 
 ---
