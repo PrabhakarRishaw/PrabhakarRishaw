@@ -19,6 +19,32 @@ I'm **Rishaw Prabhakar**, a 4th Year Computer Science student passionate about *
 
 I enjoy solving programming problems, building practical software projects and continuously improving my problem-solving and development skills.
 
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PrabhakarRishaw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rishaw-prabhakar-kk076">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Rishaw076">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/PrabhakarRishaw">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 ### 🚀 What I Do
 
 * 💻 Practice Data Structures & Algorithms
@@ -401,31 +427,6 @@ I'm interested in collaborating on projects involving:
 
 ---
 
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PrabhakarRishaw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-# 📬 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rishaw-prabhakar-kk076">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Rishaw076">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/PrabhakarRishaw">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
