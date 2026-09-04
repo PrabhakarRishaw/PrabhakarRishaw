@@ -350,7 +350,7 @@ Web Application Architecture
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PrabhakarRishaw/PrabhakarRishaw/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/PrabhakarRishaw/PrabhakarRishaw/gh-pages/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
