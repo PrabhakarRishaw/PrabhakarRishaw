@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishaw%20Prabhakar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20DSA%20%7C%20Python%20%7C%20Django%20%7C%20ML&descAlignY=60&descSize=18"/>
 
-<p align="center">
-  <img src="./profile.jpg" width="180" height="180" alt="Rishaw Prabhakar" />
-</p>
+<img src="./profile.jpg" width="180" height="180" style="border-radius:50%;" />
 
 # 👋 Hi, I'm Rishaw Prabhakar
 
