@@ -113,24 +113,27 @@ me.say_hi()
 ---
 
 # 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark" />
 </p>
 
 ### 🌐 Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
 </p>
+
+`SQL` `RDBMS`
 
 ### 📊 Data Science & Analytics
 
@@ -138,7 +141,7 @@ me.say_hi()
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </p>
@@ -153,12 +156,11 @@ me.say_hi()
 
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
 </p>
-
 ---
 
 # 💼 Experience
