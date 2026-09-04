@@ -1,189 +1,419 @@
-<p align="center">
-  <img src="./profile.jpg" width="180" height="180" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishaw%20Prabhakar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20DSA%20%7C%20Python%20%7C%20Django%20%7C%20ML&descAlignY=60&descSize=18"/>
+
+<img src="./profile.jpg" width="180" height="180" style="border-radius:50%;" />
+
+# 👋 Hi, I'm Rishaw Prabhakar
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Computer+Science+Student;DSA+Enthusiast;Python+Developer;Django+Backend+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer;Future+Software+Engineer" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=PrabhakarRishaw&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/PrabhakarRishaw?label=FOLLOWERS&style=for-the-badge&color=blue"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rishaw Prabhakar</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;DSA+Enthusiast;Python+Developer;Django+Developer;Data+Science+Enthusiast;Future+Software+Engineer&center=true&width=700&height=50">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrabhakarRishaw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/PrabhakarRishaw?label=Followers&style=social" alt="followers" />
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm **Rishaw Prabhakar**, a 4th Year Computer Science student passionate about **Data Structures & Algorithms, Backend Development, Python, Django, Data Analytics and Machine Learning**.
+```python
+class RishawPrabhakar:
 
-I enjoy solving programming problems, building practical software projects and continuously improving my problem-solving and development skills.
+    name = "Rishaw Prabhakar"
+    role = "Computer Science Student"
+    college = "Arya College of Engineering & IT, Jaipur"
 
-# 👀 Profile Visitors
+    interests = [
+        "Data Structures & Algorithms",
+        "Backend Development",
+        "Python",
+        "Django",
+        "Data Analytics",
+        "Machine Learning"
+    ]
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PrabhakarRishaw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+    currently_learning = [
+        "Advanced DSA",
+        "Django",
+        "Machine Learning",
+        "Data Analytics",
+        "Backend Development"
+    ]
 
----
+    goal = "Become a skilled Software Engineer"
 
-# 📬 Let's Connect
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! 🚀")
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/rishaw-prabhakar-kk076">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Rishaw076">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/PrabhakarRishaw">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-### 🚀 What I Do
-
-* 💻 Practice Data Structures & Algorithms
-* 🐍 Build applications using Python
-* 🌐 Develop backend applications using Django
-* 📊 Work with Data Analytics and Data Science
-* 🤖 Explore Machine Learning
-* 🛠️ Build real-world software projects
-* 🎯 Prepare for Software Engineering placements
-
-### 🎯 Career Goal
-
-To become a **Software Engineer** with strong problem-solving, backend development and data-driven application development skills.
+me = RishawPrabhakar()
+me.say_hi()
+```
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 What I Do
 
-<p align="left">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://www.linkedin.com/in/rishaw-prabhakar-kk076">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🧠 Problem Solving
 
-<a href="https://github.com/PrabhakarRishaw">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* 💻 Data Structures & Algorithms
+* 🔥 Competitive Programming
+* 🧩 Problem Solving
+* 🎯 Interview Preparation
 
-<a href="https://leetcode.com/u/Rishaw076">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+</td>
 
-</p>
+<td width="50%">
 
----
+### 💻 Development
 
-# 🏆 Competitive Programming Profiles
+* 🐍 Python Development
+* 🌐 Django Backend
+* 🗄️ MySQL
+* 🔌 REST APIs
+* 🛠️ Backend Applications
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rishaw076)
+</td>
+</tr>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/prabhakarrzwuf)
+<tr>
+<td width="50%">
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rishaw_076)
+### 📊 Data & AI
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/prabhakarrishaw9732)
+* 📈 Data Analytics
+* 🐼 Pandas
+* 🔢 NumPy
+* 📊 Matplotlib
+* 🤖 Machine Learning
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/prabhakarrishaw1)
+</td>
+
+<td width="50%">
+
+### 🎯 Career
+
+* 💼 Software Engineering
+* 🏗️ Real-world Projects
+* 📚 Continuous Learning
+* 🚀 Placement Preparation
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python" />
+<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" />
 </p>
 
-## ⚙️ Backend Development
+### 🌐 Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask" />
+<img src="https://skillicons.dev/icons?i=django,flask&theme=dark" />
 </p>
 
-## 🗄️ Database & Data
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
-`NumPy` `Pandas` `Matplotlib`
-
-## 🤖 Machine Learning
-
-`Scikit-learn` `TensorFlow` `PyTorch`
-
-## 🧰 Tools & Platforms
+### 📊 Data Science & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</p>
+
+### 🤖 Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=google&logoColor=white"/>
+
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 💼 Experience
 
-* 🧠 Data Structures & Algorithms
-* 💻 Advanced C++
-* 🐍 Python
-* 🌐 Django
-* 🤖 Machine Learning
-* 📊 Data Analytics
-* 🧩 Object-Oriented Programming
-* 🏗️ Backend Development
-* 💼 Software Engineering Interview Preparation
-
----
-
-# 💼 Experience & Training
-
-### 🏢 Python with Django Intern — GRRAS Solutions
+## 🏢 Python with Django Intern — GRRAS Solutions
 
 **May 2026 – June 2026 | Jaipur**
+
+```text
+Python
+   ↓
+Django
+   ↓
+Backend Development
+   ↓
+Database Integration
+   ↓
+Web Application Architecture
+```
 
 * Worked with Python and Django
 * Developed backend functionality
 * Worked with database-driven applications
 * Improved understanding of web application architecture
 
-### 📊 Data Analytics Intern — Codec Technologies
+---
+
+## 📊 Data Analytics Intern — Codec Technologies
 
 **April 2026 – May 2026 | Virtual**
 
-* Worked on data analysis tasks
-* Used Python, NumPy and Pandas
-* Explored data visualization and analytical workflows
-
-### 💻 SDE Intern — Zorvyn
-
-**April 2026 – Present**
-
-* Working on software development tasks
-* Exploring backend and fintech-oriented applications
-* Improving practical software engineering skills
+* 📊 Data analysis
+* 🐍 Python
+* 🔢 NumPy
+* 🐼 Pandas
+* 📈 Data visualization
+* 🔍 Analytical workflows
 
 ---
 
-# 📊 Project Statistics
+## 💻 SDE Intern — Zorvyn
 
-```text
-🚀 Backend Projects        : Multiple
-💻 DSA Repositories        : Multiple
-📊 Data Science Projects   : Multiple
-🐍 Python Projects         : Multiple
-🌐 Django Projects         : Multiple
-🤖 ML Projects             : Multiple
-📚 Interview Preparation   : Active
-🔥 GitHub Contributions   : 200+
+**April 2026 – Present**
+
+* 💻 Software development
+* 🌐 Backend-oriented development
+* 💳 Fintech-oriented applications
+* 🧩 Practical software engineering
+* 🚀 Real-world development experience
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 SkillBridge
+
+**Django Backend Platform**
+
+> A backend-focused application built using Python and Django.
+
+**Tech Stack**
+
+`Python` `Django` `MySQL`
+
+### Highlights
+
+* 🔐 Authentication & backend functionality
+* 🗄️ Database integration
+* 🌐 Django backend architecture
+* 🛠️ Practical web application development
+
+---
+
+## 💳 FinTech Risk Analysis Platform
+
+**Data + Machine Learning Project**
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
+
+### Highlights
+
+* 📊 Financial data analysis
+* 🔍 Data preprocessing
+* 🤖 Machine Learning
+* 📈 Risk analysis
+* 💡 Data-driven insights
+
+---
+
+## 📊 Student Performance Analytics
+
+**Data Analytics Project**
+
+**Tech Stack**
+
+`Python` `NumPy` `Pandas` `Matplotlib`
+
+### Highlights
+
+* 📚 Student performance analysis
+* 🧹 Data preprocessing
+* 📊 Data visualization
+* 📈 Performance insights
+* 🔢 Statistical analysis
+
+---
+
+## 🤖 Fake Product Review Detection
+
+**AI + NLP + Machine Learning**
+
+**Tech Stack**
+
+`Python` `NLP` `Scikit-learn` `Machine Learning`
+
+### Highlights
+
+* 📝 Review text preprocessing
+* 🔤 Natural Language Processing
+* 🤖 Classification
+* 📊 Prediction
+* 🔍 Fake review detection
+
+---
+
+# 🧠 DSA & Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Rishaw076">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/prabhakarrzwuf">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/rishaw_076">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/prabhakarprishaw9732">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/prabhakarrishaw1">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=7CFC00&center=true&vCenter=true&width=700&height=50&lines=Mastering+Data+Structures+%26+Algorithms;Building+Backend+Applications+with+Django;Exploring+Machine+Learning;Improving+Data+Analytics+Skills;Preparing+for+Software+Engineering+Interviews" />
+
+</div>
+
+### Current Focus
+
+* 🧠 Advanced DSA
+* 💻 Advanced C++
+* 🐍 Python
+* 🌐 Django
+* 🤖 Machine Learning
+* 📊 Data Analytics
+* 🧩 OOP
+* 🏗️ Backend Development
+* 💼 SDE Interview Preparation
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PrabhakarRishaw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakarRishaw&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhakarRishaw&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PrabhakarRishaw/PrabhakarRishaw/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🏆 Achievements & Certifications
+
+* 🐍 Python & Django Development Experience
+* 📊 Data Analytics Internship
+* 💻 Software Development Internship
+* 🧠 DSA & Competitive Programming Practice
+* 🤖 Machine Learning Project Experience
+* 🗄️ SQL / MySQL Knowledge
+
+---
+
+# 🎯 Career Goal
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Become+a+Strong+Software+Engineer;Solve+Complex+Problems;Build+Scalable+Backend+Systems;Create+Data-Driven+Applications;Keep+Learning+Every+Day+%F0%9F%9A%80" />
+
+</div>
+
+My goal is to become a **Software Engineer** with strong expertise in:
+
+`DSA` • `C++` • `Python` • `Django` • `Backend Development` • `Data Analytics` • `Machine Learning`
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rishaw-prabhakar-kk076">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PrabhakarRishaw">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Rishaw076">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+
+</div>
