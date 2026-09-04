@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishaw%20Prabhakar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20DSA%20%7C%20Python%20%7C%20Django%20%7C%20ML&descAlignY=60&descSize=18"/>
 
-<img src="./profile.jpg" width="180" height="180" style="border-radius:50%;" />
+<p align="center">
+  <img src="./profile.jpg" width="180" height="180" alt="Rishaw Prabhakar" />
+</p>
 
 # 👋 Hi, I'm Rishaw Prabhakar
 
@@ -196,17 +198,6 @@ Web Application Architecture
 * 📈 Data visualization
 * 🔍 Analytical workflows
 
----
-
-## 💻 SDE Intern — Zorvyn
-
-**April 2026 – Present**
-
-* 💻 Software development
-* 🌐 Backend-oriented development
-* 💳 Fintech-oriented applications
-* 🧩 Practical software engineering
-* 🚀 Real-world development experience
 
 ---
 
@@ -354,6 +345,7 @@ Web Application Architecture
 </div>
 
 ---
+
 
 # 🐍 Contribution Snake
 
