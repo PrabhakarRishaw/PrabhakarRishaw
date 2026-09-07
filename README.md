@@ -5,7 +5,7 @@
 <p align="center">
   <img src="./profile.jpeg" width="300" height="300" alt="Rishaw Prabhakar" />
 </p>
-# 👋 Hi, I'm Rishaw Prabhakar
+# 👋 Hi, I'm Rishaw Prabhakar 
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Computer+Science+Student;DSA+Enthusiast;Python+Developer;Django+Backend+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer;Future+Software+Engineer" />
 
